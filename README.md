@@ -2797,6 +2797,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent C](https://www.theagentc.io/mcp) `https://api.theagentc.io/mcp`
   [![Agent C MCP connector](https://glama.ai/mcp/connectors/io.theagentc/app-store-screenshots/badges/score.svg)](https://glama.ai/mcp/connectors/io.theagentc/app-store-screenshots)
   🔓 - AI-designed App Store screenshot sets, uploaded to App Store Connect; tools require an Agent C API key.
+- [Agent Data API](https://agent.chiemgaufilms.com) `https://agent.chiemgaufilms.com/mcp`
+  [![Agent Data API MCP connector](https://glama.ai/mcp/connectors/com.chiemgaufilms.agent/agent-data-api/badges/score.svg)](https://glama.ai/mcp/connectors/com.chiemgaufilms.agent/agent-data-api)
+  🔓 - SEO data for agencies and agents in DACH: keywords, SERP, competitors, local search; pay per call with x402 USDC.
 - [agentbuilt](https://agentbuilt.dev/mcp) `https://agentbuilt.dev/api/mcp`
   [![agentbuilt MCP connector](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentbuilt/agentbuilt)
   🔓 - Free AI-readiness audit of any URL: AI crawler rules, JS-free text, JSON-LD, llms.txt and concrete fixes.
